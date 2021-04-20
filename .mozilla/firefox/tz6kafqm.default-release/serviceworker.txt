@@ -1,0 +1,11 @@
+8
+
+https://web.telegram.org/
+https://web.telegram.org/service_worker.js
+true
+{4609bd66-54f0-43d7-9db0-2f7e4f518172}
+0
+1618921405672980
+1618921405986716
+1618921400010184
+#
