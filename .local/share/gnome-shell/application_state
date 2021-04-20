@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="firefox.desktop" score="25.5013427734375" last-seen="1618923560"/>
-    <application id="libreoffice-impress.desktop" score="23.16650390625" last-seen="1618924062"/>
-    <application id="org.gnome.Terminal.desktop" score="18773.082855224609" last-seen="1618924054"/>
+    <application id="libreoffice-impress.desktop" score="45.16650390625" last-seen="1618924440"/>
+    <application id="org.gnome.Terminal.desktop" score="18804.082855224609" last-seen="1618924280"/>
   </context>
 </application-state>
