@@ -465,3 +465,12 @@ X Protocol Version 11, Revision 0
 See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
 [   637.643] (EE) event8  - SYN1B7E:01 06CB:2970 Touchpad: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
+[  1047.204] (EE) event8  - SYN1B7E:01 06CB:2970 Touchpad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
+[  1081.218] (EE) client bug: timer event8 keyboard: scheduled expiry is in the past (-403ms), your system is too slow
+[  1081.218] (EE) client bug: timer event8 keyboard: scheduled expiry is in the past (-94ms), your system is too slow
+[  1353.631] (EE) event8  - SYN1B7E:01 06CB:2970 Touchpad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
+[  2109.199] (EE) event8  - SYN1B7E:01 06CB:2970 Touchpad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
+[  2109.199] (EE) event8  - SYN1B7E:01 06CB:2970 Touchpad: WARNING: log rate limit exceeded (5 msgs per 7200000ms). Discarding future messages.
